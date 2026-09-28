@@ -7,9 +7,9 @@ def add_expense():
     item = {
         "id":max([x["id"] for x in data],default=0)+1,
         "date":today(),
-        "category": text_value("Category: Rs."),
+        "category": text_value("Category: "),
         "amount": money_value("Amount: Rs."),
-        "note": text_value("Note:")
+        "note": text_value("Note: ")
     }
     data.append(item)
     save_expenses(data)
