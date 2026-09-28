@@ -1,16 +1,1 @@
-[
-    {
-        "id": 1,
-        "date": "2026-09-28",
-        "category": "Food",
-        "amount": 500.0,
-        "note": "Pizza"
-    },
-    {
-        "id": 2,
-        "date": "2026-09-28",
-        "category": "Item",
-        "amount": 1000.0,
-        "note": "Shoes"
-    }
-]
+[]
