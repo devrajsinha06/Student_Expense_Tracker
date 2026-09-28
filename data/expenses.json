@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "date": "2026-09-27",
+        "category": "Item",
+        "amount": 300.0,
+        "note": "Slippers"
+    },
+    {
+        "id": 3,
+        "date": "2026-09-27",
+        "category": "Food",
+        "amount": 100.0,
+        "note": "Honey chilli"
+    },
+    {
+        "id": 4,
+        "date": "2026-09-28",
+        "category": "Food",
+        "amount": 500.0,
+        "note": "Pizza"
+    },
+    {
+        "id": 5,
+        "date": "2026-09-28",
+        "category": "Item",
+        "amount": 250.0,
+        "note": "Notebook"
+    }
+]
