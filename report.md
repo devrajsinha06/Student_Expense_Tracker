@@ -2,11 +2,10 @@
 
 ## 1. Cover Page
 **Project:** Student Expense Tracker  
-**Student:** ____________________  
-**Registration No.:** ____________________  
-**Course:** ____________________  
-**Faculty:** ____________________  
-**Date:** ____________________
+**Student:** Dev Raj Sinha  
+**Registration No.:** 26BAI10050  
+**Course:** B.Tech(AI & ML)
+**Date:** 28/09/2026
 
 ## 2. Introduction
 Student Expense Tracker is a Python command-line application that helps students record expenses, manage a monthly budget and understand spending patterns.
